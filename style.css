@@ -1,0 +1,30 @@
+h1 {
+    color: brown;
+    text-align: center;
+}
+p {
+    color: black;
+    text-align: center;
+}
+body {
+    background-color: burlywood;
+}
+#operand1, #operand2 {
+    background-color: cornflowerblue;
+    padding: 0.5%;
+    position: relative;
+    left: 570px;
+    border-color: deeppink;
+    border-style: solid;
+    display: inline;
+}
+#content {
+    background-color: deepskyblue;
+    width: 700px;
+    margin-top: 5%;
+    position: relative;
+    left: 330px;
+    border-style: groove;
+    border-color: indigo; 
+}
+
